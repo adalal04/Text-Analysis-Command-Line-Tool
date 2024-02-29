@@ -19,14 +19,14 @@ MADCounter analyzes text files to report:
 - Identification of the longest word(s) and line(s) in the text, including their lengths.
 
 ### Command Flags
--f <input file>: Specifies the input file to analyze.
--o <output file>: Directs the output to a specified file. If not used, output is printed to stdout.
--c: Enables character analysis.
--w: Enables word frequency analysis.
--l: Enables line analysis.
--Lw: Finds and reports the longest word(s) in the text.
--Ll: Finds and reports the longest line(s) in the text.
--B <batch file>: Executes commands from a specified batch file in batch mode.
+- f <input file>: Specifies the input file to analyze.
+- o <output file>: Directs the output to a specified file. If not used, output is printed to stdout.
+- c: Enables character analysis.
+- w: Enables word frequency analysis.
+- l: Enables line analysis.
+- Lw: Finds and reports the longest word(s) in the text.
+- Ll: Finds and reports the longest line(s) in the text.
+- B <batch file>: Executes commands from a specified batch file in batch mode.
 
 ## Execution Modes
 
